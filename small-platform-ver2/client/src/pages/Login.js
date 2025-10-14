@@ -68,7 +68,7 @@ export default function Login({ onLogin }) {
                 width: 80,
                 height: 80,
                 borderRadius: "50%",
-                background: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+                background: "linear-gradient(135deg, #667eea 50%, #764ba2 50%)",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
