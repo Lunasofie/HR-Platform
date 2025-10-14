@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "$2b$10$3GyvYYs6DnzuVnT8I9plf.rAZTXOTPBsaMisMP8r7Ml/BeBqbKjgu",
+      "role": "admin",
+      "last_login": "2025-09-29T21:43:27.821Z"
+    },
+    {
+      "id": 2,
+      "name": "Employee User",
+      "email": "employee@example.com",
+      "password": "$2b$10$3GyvYYs6DnzuVnT8I9plf.wXinWXUAi63f234PCNEDn60ya4atrjm",
+      "role": "employee",
+      "last_login": "2025-09-29T21:43:45.914Z"
+    }
+  ]
+}
